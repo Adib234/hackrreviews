@@ -1,24 +1,13 @@
 # hackrreviews
 
+Yelp for hackathons, one of the frustrating parts about trying to choose whether to attend a hackathon or not is that I don't have enough information based on other people's experience in the past
+
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## What I learned
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Todo
